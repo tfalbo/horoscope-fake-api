@@ -1,16 +1,38 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "aries": {
+    "forecast": "It’s all about you today, Aries. It’s better to attend to internal needs than meet external goals. There is some tension between your enthusiasm for chasing your ambitions and needing to establish foundations at home. Consider what feeds your soul and brings you comfort; indulging in some of these activities will bring greater balance to your life. Domestic pursuits can fill the emotional void that’s been eating away at you, so bake some bread, plan a garden, stock the pantry, or put fresh linens on the bed. A pleasing living space will make you feel grounded."
+  },
+  "taurus": {
+    "forecast": "Circumstances today will require a more rational approach to problem-solving. Your sensual side is strong, but what feels good to you isn’t necessarily beneficial for the rest of the group. Look for practical solutions to workflow glitches. When examining a system and breaking it down into smaller steps, you’ll quickly identify a practice that can be simplified. You’re gifted at implementing procedures that speed up production and improve communications. Sharing your vision with friends and colleagues will boost your reputation as a proficient problem-solver. Don’t be surprised if a new job title is bestowed on you."
+  },
+  "gemini": {
+    "forecast": "The prospect of financial independence fills you with excitement today. Take this opportunity to open a retirement or savings account that will shield you from economic shifts. It’s also wise to look for moneymaking opportunities at a social gathering. You could cross paths with someone who is looking to fill a job. Offer your services; this position could greatly improve your income. On busy days like these, it’s especially important to eat well and get enough rest. It’s much easier to attract abundance when you feel strong, healthy, and refreshed. Treat your body like a temple."
+  },
+  "cancer": {
+    "forecast": "Although you cherish your relationships, you are tired of playing by other people’s rules. There’s a bit of a push and pull between your need for attachment and your desire for greater personal freedom at this time. You can achieve a pleasing balance by establishing sensible personal boundaries. Stop feeling compelled to answer the phone every time it rings or accepting every request for help that comes along. Satisfy your need for intellectual stimulation instead. A conversation with a neighbor could inspire you to sign up for a course or watch a documentary. "
+  },
+  "leo": {
+    "forecast": "You are preoccupied with work at this time, but taking time out for relaxation could help restore the balance to your life. Stop waiting for a convenient break in the action; become the captain of your own ship today. As soon as you make personal comfort your priority, your schedule will become a lot more manageable. Time is like a rubber band. Don’t stretch it past the breaking point. Train yourself to step away from your duties at regular intervals. This will make you more productive, not less. Working around the clock only will result in burnout."
+  },
+  "virgo": {
+    "forecast": "This is a day for connection and creativity. You want to be free to be unique and express your wildest ideas, but you want to find acceptance as well. You may receive word of a group project. If you agree to get involved, don’t censor your thoughts. Make bold proposals and put innovative spins on tired traditions. You’ll be quickly named the Most Valuable Player. After a long period of feeling misunderstood, being championed for your unusual outlook will be a refreshing change. It looks like you’ve finally found your tribe. Go out and celebrate."
+  },
+  "libra": {
+    "forecast": "With the Scales as your symbol, it is always about striking balance in your life. Today that midway point is hovering between your career and home. You receive some assurance that you’re making smart decisions about professional goals and long-term plans. Nonetheless, you could still feel a deep yearning for the comforts of your abode. The evening hours provide a reprieve from the demands of keeping up social graces. Feast your soul on a good page-turner and get lost in a celebration of some time alone. Solitude is bliss."
+  },
+  "scorpio": {
+    "forecast": " Your mind is busy, preoccupied with your own analysis today. If you start to get overwhelmed with all the concrete details, it’s time to zoom out and take a look at the bigger picture. There is also a need to be more intuitive and trust your sense of inner knowing rather than being so distracted by conventional wisdom. Over the course of the day you will be given opportunities to refine your ideas, sharing them with a trusted confidante. Have the courage of your convictions; they will lead to a stronger relationship."
+  },
+  "sagittarius": {
+    "forecast": "The Moon in your 8th House of Regeneration encourages you to merge and surrender today. You have an emotional need for fluidity in your day and resist any arrangement that feels too rigid. Restrictive situations involving money and property are particularly distasteful. Unless you take a practical approach to financial matters, you could fritter away your hard-earned cash. Take a deep breath and create a sensible budget. Finding the sweet spot between conservatism and discipline and faith and optimism will create money magic in your life."
+  },
+  "capricorn": {
+    "forecast": "You have a strong need for communication and clarification in your relationships today. A person’s behavior has been utterly confounding, and it’s time to get the bottom of this mystery. You are usually reserved and cautious with interactions, but today you may be more outspoken. Don’t compromise just to make the other person happy. Boundaries and fairness are critical to the health of this alliance. It may be necessary to lay out the law, but whatever the case, be honest. You’re tired of suppressing resentments. This anger is starting to eat away at you; it’s time to release it."
+  },
+  "aquarius": {
+    "forecast": "You need a moment to withdraw and isolate at this time, but that doesn’t stop worldly matters from demanding your attention. You are generous and benevolent toward others and powerfully inspired to acts of service. Volunteer work is a great way to participate while conserving your emotional energy. Helping others from a place of seclusion is especially rewarding, so turn off your phone. Develop the idea for a fundraiser, compile a list of potential contributors, or create a promotional campaign for a good cause. After you’ve completed your task, take a long nap. You cease to be useful when you’re exhausted. "
+  },
+  "pisces": {
+    "forecast": "It’s a challenge to maintain boundaries with others today because you tend to merge with them. That’s why it’s important to surround yourself with fun-loving optimists. Let this be a playful day for growing closer and appreciating fun times. There’s a quality of magic to the evening that is a little bit elusive. It’s meant to be felt, so don’t worry about trying to make sense of it. Rather than following your friends’ lead, propose an outing that appeals to your sentimental side. Be assertive. Taking charge of the group will be a stimulating change."
+  }
 }
